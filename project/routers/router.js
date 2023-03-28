@@ -4,4 +4,6 @@
   Intialize the variable router that contanins express.Router module.
   Using variablename .Methodname passing the directory address inside it will render to that function written in controllers.
   1. router.get/post method and passing controller file name.function name according to the desired task to be performed.
+  like router.get(cuser.userhome) for  the functions named in the controller
+  
     */
